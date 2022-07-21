@@ -150,6 +150,12 @@ body{
    padding-left: 20px;
    padding-right: 5px;
 }
+.fa-clock.color{
+   color: lawngreen;
+}
+.fa-message.color{
+   color: #DD0000;
+}
 /* ----------------------footer view to be added ----------- */
 .view-parent{
    display: flex;
